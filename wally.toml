@@ -1,0 +1,8 @@
+[package]
+name = "6ixfalls/cryo"
+authors = ["Roblox"]
+license = "MIT"
+version = "1.0.3"
+files = ["*", "!*.spec.lua"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
